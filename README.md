@@ -19,7 +19,7 @@ A very simple and extendible [sympy](https://github.com/sympy/sympy) to [jax](ht
 
 ### Basics
 
-Define some sympy expression
+Define some sympy expression , very good
 
 ```python
 import sympy as sy
